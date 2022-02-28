@@ -45,9 +45,7 @@ export default {
   },
 
   //for gh-pages
-  target: 'static',
-  router: {
-    base: '/pomodoro/'
-  }
+  target: 'static'
+
 
 }
